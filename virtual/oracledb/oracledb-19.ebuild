@@ -36,6 +36,7 @@ DEPEND="
 		sys-block/targetcli-fb
 		sys-apps/smartmontools
 		app-admin/sysstat
+		app-admin/sudo
 		acct-group/oracle
 		acct-group/dba
 		acct-group/oinstall
